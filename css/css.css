@@ -1,0 +1,18 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    background: url("D:/Web Development/Projects/Gym Website/Images/Fitness.jpg");
+}
+.left
+{
+    border: 2px solid red;
+}
+.right
+{
+    border: 2px solid red;
+}
+.center
+{
+    border: 2px solid red;
+}
